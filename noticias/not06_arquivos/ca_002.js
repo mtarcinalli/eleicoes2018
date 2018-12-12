@@ -1,0 +1,1 @@
+window['_ttq_tt_fsp'].push(['_setCustomAudience','TT-12340-4','CA16500_1544621038']);

@@ -1,0 +1,32 @@
+html {
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
+
+*,
+*:after,
+*:before {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+@font-face {
+    font-family: "Avenir-Next";
+    src: url("../../assets/fonts/avenir-next.otf");
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Avenir-Next Bold";
+    src: url("../../assets/fonts/avenir-next-bold.otf");
+}
+
+@font-face {
+    font-family: "Avenir-Next";
+    src: url("../../assets/fonts/avenir-next-demi.otf");
+    font-weight: bold;
+}
